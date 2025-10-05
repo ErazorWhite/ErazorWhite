@@ -6,10 +6,6 @@
 ## 🚀 About Me
 
 Computer engineer with a solid understanding of computer technologies, dedicated server hardware, and Linux operating systems.
-I started my career as a Support Technical Engineer and, since 2022, have been transitioning into frontend development at a major hosting company that operates data centers worldwide.
-
-My goal is to automate routine tasks that nobody enjoys.
-I have already made progress in this field and continue to grow and evolve in web development.
 
 ---
 
